@@ -1,2 +1,3 @@
-# DIO-Desafio-Github
-Desafio de projeto DIO Criar Repositorio no Github
+# Repositorio do desafio de projeto Git/Github da dio 🖥️
+Desafio de projeto DIO Criar Repositorio no Github.
+
