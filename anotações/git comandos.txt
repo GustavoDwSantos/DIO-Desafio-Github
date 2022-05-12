@@ -1,0 +1,6 @@
+git clone "endereço http do repositorio" = Clona o repositorio do github para a maquina
+git status = mostra o status do seu branch
+git add . = adiciona todos os untracked files pros arquivos tracked
+git commit -m "mensagem importante sobre as mudanças feitas no repositorio"= faz um commit no repositorio 
+git push origin main = manda o seu commit do servidor local para a nuvem, ou seja o github
+git pull = puxa a versão mais nova do repositorio do github para a sua maquina
